@@ -1,7 +1,7 @@
-name: project-management-dashboard
+name: okteto-react-app2
 autocreate: true
 image:
-  name: okteto.dev/project-management-dashboard:dev
+  name: okteto.dev/okteto-react-app2:dev
   context: .
   target: dev
 command: bash
